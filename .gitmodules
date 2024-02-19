@@ -1,3 +1,4 @@
 [submodule "sub-repo"]
 	path = sub-repo
 	url = https://github.com/Ryu-Okamoto/sub-repo.git
+	ignore = dirty
